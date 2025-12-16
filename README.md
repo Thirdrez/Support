@@ -4,7 +4,7 @@
 
 ### **Official Download Center & Issue Tracker**
 
-Get the latest MotionPrint™ Bridge for Blender and report technical issues.
+Get the latest **MotionPrint™ Bridge** for Blender and report technical issues.
 
 <br/>
 
@@ -28,12 +28,12 @@ This add-on is the bridge between Blender and the Kinetiq Engine. It includes th
 
 ---
 
-## 🔬 Scientifically Verified Technology
+## 🔬 Scientific Foundation
 
-Unlike standard add-ons, Thirdrez technology is backed by peer-reviewed research.
+Our technology stack is built upon rigorous peer-reviewed research in computer graphics and cryptography.
 
-| Technology | Paper Title | Verified DOI |
-|------------|-------------|--------------|
+| Protocol / Engine | Publication Title | Verified DOI |
+|:------------------|:------------------|:-------------|
 | **MotionPrint™** | *A Client-Side Cryptographic Provenance Protocol for 3D Motion Data* | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17843580.svg)](https://doi.org/10.5281/zenodo.17843580) |
 | **Kinetiq Engine™** | *Hybrid Generative Motion Synthesis via Ecological Interaction Data* | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17849581.svg)](https://doi.org/10.5281/zenodo.17849581) |
 
@@ -63,6 +63,6 @@ For questions like *"How do I animate this?"* or *"When is the next feature comi
 
 [🌐 Website](https://thirdrez.com) • [📦 Marketplace](https://thirdrez.com/marketplace) • [🔄 Converter](https://thirdrez.com/convert)
 
-© 2025 Thirdrez Labs. Released under MIT License.
+© 2025 Thirdrez Labs. All Rights Reserved.
 
 </div>
